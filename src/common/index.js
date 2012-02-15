@@ -1,11 +1,11 @@
 var beanpoll = require('beanpoll'),
-    haba     = require('haba');
+    plugin     = require('plugin');
 
 
 
 exports.loader = function() {
 
-	var loader = haba.loader(),
+	var loader = plugin.loader(),
 	router     = beanpoll.router();
 
 	loader.router = router;
