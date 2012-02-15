@@ -11,9 +11,6 @@
 	"devDependencies": {
 		
 	},
-	"scripts": {
-		"install": "make node"
-	},
 	"main": "./lib/node/index.js",
 	"directories": {
 		"mesh-src": "./src",
