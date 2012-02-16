@@ -35,7 +35,7 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 326,
+				"buffer_size": 284,
 				"line_ending": "Unix"
 			}
 		},
@@ -44,6 +44,14 @@
 			"settings":
 			{
 				"buffer_size": 230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin y0Df1U.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -149,7 +157,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -235,15 +243,15 @@
 					"file": "package.json",
 					"settings":
 					{
-						"buffer_size": 326,
+						"buffer_size": 284,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								121,
-								121
+								0,
+								0
 							]
 						],
 						"settings":
@@ -276,6 +284,32 @@
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/tmp/subl stdin y0Df1U.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
