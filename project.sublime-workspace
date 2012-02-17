@@ -40,6 +40,14 @@
 			}
 		},
 		{
+			"file": "/tmp/subl stdin 5evpwu.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "/tmp/subl stdin q72nnD.txt",
 			"settings":
 			{
@@ -76,6 +84,14 @@
 			"settings":
 			{
 				"buffer_size": 629,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".cupboard",
+			"settings":
+			{
+				"buffer_size": 91,
 				"line_ending": "Unix"
 			}
 		}
@@ -181,7 +197,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 10,
 			"sheets":
 			[
 				{
@@ -292,7 +308,7 @@
 				},
 				{
 					"buffer": 4,
-					"file": "/tmp/subl stdin q72nnD.txt",
+					"file": "/tmp/subl stdin 5evpwu.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -318,6 +334,32 @@
 				},
 				{
 					"buffer": 5,
+					"file": "/tmp/subl stdin q72nnD.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "src/common/index.js",
 					"settings":
 					{
@@ -344,7 +386,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "/tmp/subl stdin dNZnLo.txt",
 					"settings":
 					{
@@ -370,7 +412,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "/tmp/subl stdin y0Df1U.txt",
 					"settings":
 					{
@@ -396,7 +438,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "lib/node/index.js",
 					"settings":
 					{
@@ -415,6 +457,32 @@
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": ".cupboard",
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
