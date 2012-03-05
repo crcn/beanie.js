@@ -2,7 +2,7 @@
   "name": "beanie",
   "description": "haba + beanpoll",
   "author": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "http://github.com/crcn/beanie.git"
@@ -14,7 +14,8 @@
   "devDependencies": {},
   "main": "./lib/node/index.js",
   "directories": {
-    "mesh-src": "./src",
+    "src": "./src",
     "lib": "./lib"
-  }
+  },
+  "mesh": true
 }

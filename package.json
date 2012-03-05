@@ -14,7 +14,8 @@
     "devDependencies": {},
     "main": "./lib/node/index.js",
     "directories": {
-        "mesh-src": "./src",
+        "src": "./src",
         "lib": "./lib"
-    }
+    },
+    "mesh": true
 }
