@@ -8,7 +8,7 @@
         "url": "http://github.com/crcn/beanie.git"
     },
     "dependencies": {
-        "plugin": "<0.2.0",
+        "plugin": "<0.3.0",
         "beanpoll": "<0.3.0"
     },
     "devDependencies": {},
